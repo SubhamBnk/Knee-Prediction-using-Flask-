@@ -36,7 +36,7 @@ def main():
 
 @app.route("/about")
 def about_page():
-    return "Please reach out to me on Linkedin!!!"
+    return "Please subscribe Artificial Intelligence Hub..!!!"
 
 @app.route("/predict", methods=['GET', 'POST'])
 def upload():

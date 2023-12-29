@@ -16,14 +16,7 @@ The dataset consists of 1650 digital X-ray images of knee joint which are collec
 ## Deployment
 * Train the model (here Model_Training.ipynb)
 * The generated model is saved as model.h5
-* Run app.py in visual studio code to get the localhost server - http://127.0.0.1:5000/
-
-# Images: <br>
-<div align="center">
-  <img alt="ss1" src="./result.png" /> <br><br>
-   <img alt="ss1" src="./assets/ss2.png" /><br><br>
-  
-</div>
+* Run app.py in visual studio code to get the live server.
 
 ## Connect with me on Linkedln
 https://www.linkedin.com/in/subham-gourisaria-a13418201/
