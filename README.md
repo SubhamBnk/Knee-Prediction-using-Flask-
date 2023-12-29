@@ -20,7 +20,7 @@ The dataset consists of 1650 digital X-ray images of knee joint which are collec
 
 # Images: <br>
 <div align="center">
-  <img alt="ss1" src="./assets/ss1.png" /> <br><br>
+  <img alt="ss1" src="./result.png" /> <br><br>
    <img alt="ss1" src="./assets/ss2.png" /><br><br>
   
 </div>
